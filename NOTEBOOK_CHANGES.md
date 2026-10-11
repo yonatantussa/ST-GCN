@@ -5,7 +5,8 @@ Changes to `ST_GCN_Implementation.ipynb` from the initial pull at
 original notebook. Its original headings, prose, comments, docstrings, and cell
 order are retained. Change annotations live here to keep the notebook clear.
 
-[Open the notebook in Colab](https://colab.research.google.com/github/yonatantussa/ST-GCN/blob/main/ST_GCN_Implementation.ipynb).
+[Open this review branch in Colab](https://colab.research.google.com/github/yonatantussa/ST-GCN/blob/notebook-training-fixes/ST_GCN_Implementation.ipynb).
+The notebook's original badge points to `main`; use this branch link before the PR is merged.
 Run the dependency cell, mount Drive, and verify the data paths. No companion
 Python files are needed. Outputs go to `MyDrive/content/st_gcn_runs/pose_baseline`.
 For a fresh run after that folder already contains results, choose a new `RUN_NAME`;
